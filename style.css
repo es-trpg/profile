@@ -123,3 +123,7 @@ h3 {
   padding-bottom: 0.5rem;
   border-bottom: #999 solid 1px;
 }
+
+p + p {
+  margin-top: 1rem;
+}
