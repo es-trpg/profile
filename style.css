@@ -127,3 +127,8 @@ h3 {
 p + p {
   margin-top: 1rem;
 }
+
+/*480px以下*/
+@media screen and (max-width: 480px) {
+  font-size: 14px;
+}
